@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807655175576",
+    "project_id": "gd6-c-0909",
+    "storage_bucket": "gd6-c-0909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807655175576:android:ba70a80fd81499a3f867ed",
+        "android_client_info": {
+          "package_name": "com.yonas.gd6_c_0909"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807655175576-aqpdmiqdvqm6uvdl6ukkac4eq848ep8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIddQDraK26yKel1V25-A0dG5gOEtsoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807655175576-aqpdmiqdvqm6uvdl6ukkac4eq848ep8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
